@@ -31,7 +31,7 @@ social:
     link: 'mailto:alice710102961@163.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zthtangerinego
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
