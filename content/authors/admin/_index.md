@@ -28,7 +28,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'alice710102961@163.com'
+    link: 'mailto:alice710102961@163.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -37,7 +37,7 @@ social:
   - icon: file-pdf
     icon_pack: fas
     label: View Resume
-    link: static/resume.pdf
+    link: resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
